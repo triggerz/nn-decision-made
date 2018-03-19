@@ -1,6 +1,6 @@
 # Config
  - Title: The decision has been made!
- - Image: http://res.cloudinary.com/triggerz/image/upload/v1513594352/Billede1_ls6myi.png
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521496094/stock-photo-unhappy-employee-or-demotivated-at-working-place-688397869.jpg
 
 # Description
 
