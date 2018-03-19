@@ -10,10 +10,8 @@ The team cleaning classified areas in your building has been shut down - a decis
 You ask your department manager to inform your team and you take a step back. It is the management team's decision and they can present the arguments so much better than you can.
 
 # Variables
- - Resources: -1
- - Engagement: -1
- - Output: +3
- - Total: round(((Engagement * Output) / 100) - (100 - Resources))
+ - yourself-authentic-rolemodel: 0.1
+ - yourself-influence-drivemotivation: 0.1
 
 # Feedback
 Even though you don't like the decision, you should handle the communication. It is your responsibility and it will give you more power as a manager to handle the issue on your own. 
@@ -25,10 +23,8 @@ X
 You really try to get your arguments right and you handle the communication. You have asked your Department Manager to give you input for a compelling 'sales pitch'. Even though you don't like the decision, this is part of your job as a Associate Manager. 
 
 # Variables
- - Resources: -1
- - Engagement: -2
- - Output: +3
- - Total: round(((Engagement * Output) / 100) - (100 - Resources))
+ - yourself-authentic-rolemodel: 0.5
+ - yourself-influence-drivemotivation: 0.6
 
 # Feedback
 You don't need to oversell a solution you don't like. You should be honest about how you feel, and also show how you will solve the problem at hand. 
@@ -40,10 +36,8 @@ X
 You handle the communication, explaining the decision was made at an executive level. No need for a lot of explanation as you are just delivering the message. 
 
 # Variables
- - Resources: -3
- - Engagement: -3
- - Output: +3
- - Total: round(((Engagement * Output) / 100) - (100 - Resources))
+ - yourself-authentic-rolemodel: 0.3
+ - yourself-influence-drivemotivation: 0.3
 
 # Feedback
 Even though you don't like the decision, you should show that you are taking responsibility for the issue at hand - e.g. show by showing how you will solve the problem. 
@@ -55,10 +49,9 @@ X
 You handle the communication and are open about the challenges you foresee in the new setup. 
 
 # Variables
- - Resources: +0
- - Engagement: -3
- - Output: -3
- - Total: round(((Engagement * Output) / 100) - (100 - Resources))
+ - yourself-aware-ownemotions: 0.7
+ - yourself-authentic-rolemodel: 0.8
+ - yourself-influence-drivemotivation: 0.8
 
 # Feedback
 To stay authentic it is important to be honest about your feelings regarding the decision. At the same time make sure your team members don't get demotivated if they feel you are unhappy - show how you will handle the issue at hand.
