@@ -16,9 +16,6 @@ You ask your department manager to inform your team and you take a step back. It
 # Feedback
 Even though you don't like the decision, you should handle the communication. It is your responsibility and it will give you more power as a manager to handle the issue on your own. 
 
-# Outcome
-X
-
 # Choice
 You really try to get your arguments right and you handle the communication. You have asked your Department Manager to give you input for a compelling 'sales pitch'. Even though you don't like the decision, this is part of your job as a Associate Manager. 
 
@@ -29,9 +26,6 @@ You really try to get your arguments right and you handle the communication. You
 # Feedback
 You don't need to oversell a solution you don't like. You should be honest about how you feel, and also show how you will solve the problem at hand. 
 
-# Outcome
-X
-
 # Choice
 You handle the communication, explaining the decision was made at an executive level. No need for a lot of explanation as you are just delivering the message. 
 
@@ -41,9 +35,6 @@ You handle the communication, explaining the decision was made at an executive l
 
 # Feedback
 Even though you don't like the decision, you should show that you are taking responsibility for the issue at hand - e.g. show by showing how you will solve the problem. 
-
-# Outcome
-X
 
 # Choice
 You handle the communication and are open about the challenges you foresee in the new setup. 
@@ -56,6 +47,4 @@ You handle the communication and are open about the challenges you foresee in th
 # Feedback
 To stay authentic it is important to be honest about your feelings regarding the decision. At the same time make sure your team members don't get demotivated if they feel you are unhappy - show how you will handle the issue at hand.
 
-# Outcome
-X
 
