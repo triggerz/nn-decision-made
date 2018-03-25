@@ -1,7 +1,6 @@
 # Config
  - Title: The decision has been made!
- - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1521496094/stock-photo-unhappy-employee-or-demotivated-at-working-place-688397869.jpg
-
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1522012894/dilemma__decision_has_been_made.jpg
 # Description
 
 The team cleaning classified areas in your building has been shut down - a decision made by the management team one level above you. It is now your job to 'sell' this task to your team. You disagree with this decision, because you think your team will not be motivated to do the job, and your team now has to perform a task that was previously carried out by a team of 15. Your team will need training to take on this task. How do you communicate this decision to your team of operators?
